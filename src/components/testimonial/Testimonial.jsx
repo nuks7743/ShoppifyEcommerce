@@ -37,7 +37,7 @@ const Testimonial = () => {
                         {/* Testimonial 3 */}
                         <div className="lg:w-1/3 lg:mb-0 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://r2.easyimg.io/8l51nsvzm/sanket.jpg" />
                                 <p className="leading-relaxed">Hello, I am Sanket Gopal Patil, A Passionate Software Developer. Armed With A MCA In Computer Applications, I Specialize In HTML, CSS, Python, DBMS.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-bold title-font tracking-wider text-sm uppercase">Sanket Gopal Patil</h2>
