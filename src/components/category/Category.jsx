@@ -3,35 +3,35 @@ import { useNavigate } from "react-router";
 // category 
 const category = [
     {
-        image: 'https://r2.easyimg.io/uzr62xhmy/99.png',
+        image: 'https://i.ibb.co/kMqYJr3/Fasion.png',
         name: 'fashion'
     },
     {
-        image: 'https://r2.easyimg.io/d88wgj85w/t_shirt.png',
+        image: 'https://i.ibb.co/CVMR2c2/shirt.png',
         name: 'shirt'
     },
     {
-        image: 'https://r2.easyimg.io/nba1tff8m/jacket.png',
+        image: 'https://i.ibb.co/WDWy9pT/jacket.png',
         name: 'jacket'
     },
     {
-        image: 'https://r2.easyimg.io/kya8zt6j6/mobile_category.png',
+        image: 'https://i.ibb.co/rmM5m33/mobile',
         name: 'mobile'
     },
     {
-        image: 'https://r2.easyimg.io/87nhvd1j5/laptop_category.png',
+        image: 'https://i.ibb.co/WPL2f6D/lap.png',
         name: 'laptop'
     },
     {
-        image: 'https://r2.easyimg.io/71s54csc3/footwear_category.png',
+        image: 'https://i.ibb.co/F4HPMLJ/shoes.png',
         name: 'shoes'
     },
     {
-        image: 'https://r2.easyimg.io/bqxwjal3u/home.png',
+        image: 'https://i.ibb.co/DKb2yx4/home.png',
         name: 'home'
     },
     {
-        image: 'https://r2.easyimg.io/z5isnpi7n/books.png',
+        image: 'https://i.ibb.co/yBzmxv0/books.png',
         name: 'books'
     }
 ]
