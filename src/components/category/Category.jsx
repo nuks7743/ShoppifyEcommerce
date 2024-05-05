@@ -15,7 +15,7 @@ const category = [
         name: 'jacket'
     },
     {
-        image: 'https://i.ibb.co/rmM5m33/mobile',
+        image: 'https://i.ibb.co/rmM5m33/mobile.png',
         name: 'mobile'
     },
     {
