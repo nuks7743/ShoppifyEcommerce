@@ -15,7 +15,7 @@ const Testimonial = () => {
                         {/* Testimonial 1 */}
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://r2.easyimg.io/zm9hvni1f/photo1.png" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://i.ibb.co/hsMvHz3/Photo1.jpg" />
                                 <p className="leading-relaxed">Hello, I am Nakul Patil, A Passionate Software Developer. Armed With A MCA In Computer Applications, I Specialize In Java, ReactJS, AngularJS, Python, JavaScript, C.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-bold title-font tracking-wider text-sm uppercase">Nakul Prakash Patil</h2>
@@ -26,7 +26,7 @@ const Testimonial = () => {
                         {/* Testimonial 2 */}
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://r2.easyimg.io/mmx6z8zke/1.png" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://i.ibb.co/bBFGffy/photo.jpg" />
                                 <p className="leading-relaxed">Hello, I am Sneha Patil, A Passionate Software Developer. Armed With A MCA In Computer Applications, I Specialize In HTML, CSS, Java, Python, JavaScript.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-bold title-font tracking-wider text-sm uppercase">SNEHA SUDHAKAR PATIL</h2>
@@ -37,7 +37,7 @@ const Testimonial = () => {
                         {/* Testimonial 3 */}
                         <div className="lg:w-1/3 lg:mb-0 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://r2.easyimg.io/8l51nsvzm/sanket.jpg" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://i.ibb.co/v19jVPJ/Whats-App-Image-2024-04-09-at-18-17-30-60e2e427.jpg" />
                                 <p className="leading-relaxed">Hello, I am Sanket Gopal Patil, A Passionate Software Developer. Armed With A MCA In Computer Applications, I Specialize In HTML, CSS, Python, DBMS.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-bold title-font tracking-wider text-sm uppercase">Sanket Gopal Patil</h2>
