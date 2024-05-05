@@ -1,7 +1,7 @@
 const HeroSection = () => {
     return (
         <div>
-           <img className=" h-44 lg:h-full w-full" src="https://r2.easyimg.io/84n5apgrk/flipkart-new-banner.jpg" alt="" />
+           <img className=" h-44 lg:h-full w-full" src="https://i.ibb.co/DpF0msH/banner.jpg" alt="" />
         </div>
     );
 }
